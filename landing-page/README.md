@@ -1,0 +1,1 @@
+This project is a simple landing page, using the concepts of flexbox.

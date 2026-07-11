@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-decoration: underline;
+    color: #c8361d;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #e89d2d;
+    border-radius: 10px;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #23911b;
+    text-align: center;
+}
+
+.menu li {
+    text-align: center;
+    list-style: none;
+    
+}
+
+.menu {
+    padding-left: 0;
+}
